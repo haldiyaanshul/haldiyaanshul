@@ -52,8 +52,8 @@ I believe in continuous learning across multiple cloud platforms and emerging AI
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=haldiyaanshul&show_icons=true&theme=radical)
 
 ### 📫 Connect with me
-* [LinkedIn](https://linkedin.com/in/[your-linkedin-id])
-* [Email](mailto:your-email@example.com)
+* [LinkedIn](https://linkedin.com/in/anshulhaldiya)
+* [Email](anshulkhandelwal2904@gmail.com)
